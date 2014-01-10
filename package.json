@@ -1,0 +1,8 @@
+{
+  "name": "jquery-zoom",
+  "version": "1.7.11",
+  "main": "jquery.zoom.js",
+  "readmeFilename": "README.md",
+  "_id": "jquery-placeholder@2.0.8",
+  "description": "Enlarge images on click or mouseover."
+}
